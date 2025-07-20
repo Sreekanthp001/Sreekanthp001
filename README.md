@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌟 DevOps & AWS Projects by Sreekanth Paleti
 
 Hey there! 👋 I'm **Sreekanth Paleti**, a passionate DevSecOps & AWS fresher, currently undergoing professional training at **JoinDevOps**. This repository is a showcase of my hands-on learning and real-time practice projects.
