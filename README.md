@@ -1,4 +1,19 @@
+<!-- Banner Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=120&section=header&text=Hi%20👋%2C%20I'm%20Sreekanth%20Paleti!&fontSize=40&fontColor=2c3e50" alt="header"/>
+</p>
 
+<h2 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast (2025)</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sreekanthpaleti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sreekanthpaleti1999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <!-- <img src="https://komarev.com/ghpvc/?username=vigneshkattamudi&label=Profile%20Views&color=0e75b6&style=flat" alt="vigneshkattamudi" /> -->
+</p>
 # 🌟 DevOps & AWS Projects by Sreekanth Paleti
 
 Hey there! 👋 I'm **Sreekanth Paleti**, a passionate DevSecOps & AWS fresher, currently undergoing professional training at **JoinDevOps**. This repository is a showcase of my hands-on learning and real-time practice projects.
