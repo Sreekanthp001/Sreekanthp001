@@ -12,7 +12,7 @@
   <a href="mailto:sreekanthpaleti1999@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vigneshkattamudi&label=Profile%20Views&color=0e75b6&style=flat" alt="vigneshkattamudi" />
+  <img src="https://komarev.com/ghpvc/?username=sreekanthpaleti&label=Profile%20Views&color=0e75b6&style=flat" alt="sreekanthpaleti" />
 </p>
 # 🌟 DevOps & AWS Projects by Sreekanth Paleti
 
